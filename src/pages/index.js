@@ -22,7 +22,7 @@ export default function Home() {
         <h1 className="text-4xl mb-4">CookieClicker</h1>
         <Image 
           className="transition duration-75 ease-in-out hover:-translate-y-1 hover:scale-105"
-          src="iotw-react/cookie.png"
+          src="cookie.png"
           alt="cookie" 
           width={500}
           height={500}
